@@ -1,11 +1,11 @@
 # Proyecto Final de Análisis de Datos 
 
-Integrantes:
-Benavides Kevin 
-Guachamín Daniel
-León Jeremy 
-Yazán Cindy 
-Valdivieso Gabriel
+### Integrantes:
+###### Benavides Kevin 
+###### Guachamín Daniel
+###### León Jeremy 
+###### Yazán Cindy 
+###### Valdivieso Gabriel
 
 
 Apartir de la siguiente arquitectura data lake, se ha logrado llegar a un respectivo análsis
