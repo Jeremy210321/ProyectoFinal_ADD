@@ -172,10 +172,14 @@ De la cual se obtienen una serie de datos
 
 ![image](https://user-images.githubusercontent.com/66692550/133804911-111d507b-6cd7-4b21-9ebe-3b4844663e50.png)
 
-Una vez obtenido los datos se procede a enviar los datos a mongodb
+Una vez obtenido los datos se procede a enviar los datos a mongodb:
+
+![image](https://user-images.githubusercontent.com/66692550/133819426-d34dcccf-3a50-49a9-b27a-8194e08dc683.png)
+
+![image](https://user-images.githubusercontent.com/66692550/133819533-c607dfec-d2d4-47e5-8e54-cfda62e4cb7c.png)
 
 
-### Procedemos a obtener datos los datos de Kaggle
+### Procedemos a obtener datos de Kaggle
 
 Respecto al tema de los juegos en línea por países se ha logrado obtener un dataset de la fuente Kaggle. Los datos encontrados proporcionan información acerca de las ventas de video juegos en diferentes regiones del mundo como se ve en la primera imagen. Sigue la limpieza de la fuente de Kaggle con la herramienta RapidMiner de la segunda imagen. 
 
@@ -220,6 +224,8 @@ Los datos recolectados pasan a ser almacenados en MySQL, en la base de datos “
 El proceso sigue con la transferencia de datos de MongoDB a Elasticsearch, este proceso se lo realiza mediante el script de la imagen a continuación.
 
 ![image](https://user-images.githubusercontent.com/66692550/133805725-fd1b0fdb-db29-4a65-aa7d-e4c2280c8442.png)
+
+Una vez finalizada la extracción de los datos se procede a enviarlos a unificarlos para poder realizar el análisis de los mismos.
 
 ## Análisis de los datos obtenidos
 
